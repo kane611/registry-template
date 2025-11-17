@@ -1,14 +1,14 @@
 [
   {
-    "image_path": "https://your-image-url.com/demo-droplet.png",
-    "display_name": "Demo Droplet",
+    "image_path": "https://github.com/kane611/registry-template/blob/main/images/OIP.webp",
+    "display_name": "Kicad",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "your-docker-org/demo-droplet",
+    "container_docker_image": "flowcaseweb/terminal:0.4.0",
     "container_docker_tags": [
       "1.0.0",
       "0.9.0",
       "develop"
     ],
-    "description": "This is the description for Demo Droplet"
+    "description": "This is the description for Kicad Droplet"
   }
 ]
