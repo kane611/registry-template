@@ -1,6 +1,6 @@
 [
   {
-    "image_path": "./images/OIP.webp",
+    "image_path": "../images/OIP.webp",
     "display_name": "Kicad",
     "container_docker_registry": "https://index.docker.io/v1/",
     "container_docker_image": "flowcaseweb/terminal:0.4.0",
