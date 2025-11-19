@@ -2,12 +2,10 @@
   {
     "image_path": "https://kane611.github.io/registry-template/images/OIP.webp",
     "display_name": "Kicad",
-    "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/terminal:0.4.0",
+    "container_docker_registry": "10.26.26.114:5000",
+    "container_docker_image": "my-firefox-wiki:latest",
     "container_docker_tags": [
-      "1.0.0",
-      "0.9.0",
-      "develop"
+      "latest",
     ],
     "description": "This is the description for Kicad Droplet"
   }
