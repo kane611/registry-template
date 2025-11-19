@@ -1,6 +1,6 @@
 [
   {
-    "image_path": "https://github.com/kane611/registry-template/blob/main/images/Wiki.webp",
+    "image_path": "./images/Wiki.webp",
     "display_name": "Wiki",
     "container_docker_registry": "10.26.26.114:5000",
     "container_docker_image": "my-firefox-wiki",
