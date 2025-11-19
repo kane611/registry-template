@@ -2,7 +2,7 @@
   {
     "image_path": "https://kane611.github.io/registry-template/images/OIP.webp",
     "display_name": "Kicad",
-    "container_docker_registry": "10.26.26.114:5000",
+    "container_docker_registry": "http://10.26.26.114:5000",
     "container_docker_image": "my-firefox-wiki:latest",
     "container_docker_tags": [
       "latest",
