@@ -3,7 +3,7 @@
     "image_path": "https://kane611.github.io/registry-template/images/OIP.webp",
     "display_name": "Kicad",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "my-firefox-wiki:latest",
+    "container_docker_image": "flowcaseweb/blender:0.4.0",
     "container_docker_tags": [
       "latest",
     ],
