@@ -2,7 +2,7 @@
   {
     "image_path": "https://your-image-url.com/demo-droplet.png",
     "display_name": "Demo Droplet",
-    "container_docker_registry": "http://10.26.26.114:5000",
+    "container_docker_registry": "10.26.26.114:5000",
     "container_docker_image": "flowcaseweb/core-ubuntu-focal",
     "container_docker_tags": [
     "develop"
