@@ -25,7 +25,7 @@
     "container_docker_registry": "10.26.26.114:5000",
     "container_docker_image": "kicad",
     "container_docker_tags": [
-    "latest"
+    "develop"
     ],
     "description": "This is the description for kicad"
   }
