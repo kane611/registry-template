@@ -19,4 +19,14 @@
     ],
     "description": "This is the description for Magic"
   }
+      {
+    "image_path":"https://th.bing.com/th/id/ODF.LuV1PcSS-GIZfuE0WHSc3w?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",  
+    "display_name": "Kicad",
+    "container_docker_registry": "10.26.26.114:5000",
+    "container_docker_image": "Kicad",
+    "container_docker_tags": [
+    "latest"
+    ],
+    "description": "This is the description for Kicad"
+  }
 ]
