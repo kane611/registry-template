@@ -10,8 +10,8 @@
     "description": "This is the description for Wiki"
   },
     {
-    "image_path":"",  
-    "display_name": "Wiki",
+    "image_path":"http://opencircuitdesign.com/magic/giffiles/magic_narrow.gif",  
+    "display_name": "Magic",
     "container_docker_registry": "10.26.26.114:5000",
     "container_docker_image": "kasm-magic",
     "container_docker_tags": [
