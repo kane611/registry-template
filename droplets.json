@@ -9,14 +9,4 @@
     ],
     "description": "This is the description for Wiki"
   }
-    {
-    "image_path": "https://www.bing.com/images/search?view=detailV2&ccid=RmK8I6aE&id=DC15D5FE38108A8C7E71B34E997D2B5F90E7D9E4&thid=OIP.RmK8I6aEzjFz_jOSl0no0wHaFt&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4662bc23a684ce3173fe33929749e8d3%3frik%3d5NnnkF8rfZlOsw%26riu%3dhttp%253a%252f%252fopencircuitdesign.com%252fmagic%252fgiffiles%252fmagic_7_4_screen.gif%26ehk%3dONjkkEYKAhgU5k7GVuR0npm0LAKiPApDe34O51QDZvU%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=771&expw=1000&q=magic+vlsi+layout+tool%e5%9b%be%e6%a0%87&FORM=IRPRST&ck=6E8C8BA190299F60C1F1E9DB887E4B6B&selectedIndex=3&itb=0",    
-    "display_name": "Magic",
-    "container_docker_registry": "10.26.26.114:5000",
-    "container_docker_image": "kasm-magic",
-    "container_docker_tags": [
-    "latest"
-    ],
-    "description": "This is the description for Magic"
-  }
 ]
