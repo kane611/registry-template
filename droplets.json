@@ -28,5 +28,15 @@
     "develop"
     ],
     "description": "This is the description for kicad"
+  },
+    {
+    "image_path":"https://registry.flowcase.org/images/ubuntu.png",  
+    "display_name": "Ubuntu",
+    "container_docker_registry": "10.26.26.114:5000",
+    "container_docker_image": "flowcaseweb/core-ubuntu-focal",
+    "container_docker_tags": [
+    "develop"
+    ],
+    "description": "This is the description for Ubuntu"
   }
 ]
