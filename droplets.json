@@ -38,5 +38,15 @@
     "develop"
     ],
     "description": "This is the description for Ubuntu"
+  },
+    {
+    "image_path":"http://opencircuitdesign.com/qflow/giffiles/qflow_logo.png",  
+    "display_name": "Qfow",
+    "container_docker_registry": "10.26.26.114:5000",
+    "container_docker_image": "qflow",
+    "container_docker_tags": [
+    "develop"
+    ],
+    "description": "This is the description for qflow"
   }
 ]
