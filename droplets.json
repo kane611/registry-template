@@ -3,9 +3,9 @@
     "image_path":"https://registry.flowcase.org/images/firefox.png",
     "display_name": "firefox",
     "container_docker_registry": "web-eda",
-    "container_docker_image": "firefox:v1",
+    "container_docker_image": "firefox",
     "container_docker_tags": [
-    "latest"
+    "v1"
     ],
     "description": "This is the description for firefox"
   },
