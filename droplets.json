@@ -9,6 +9,16 @@
     ],
     "description": "This is the description for firefox"
   },
+  {
+    "image_path":"https://registry.flowcase.org/images/firefox.png",
+    "display_name": "Ubuntucore",
+    "container_docker_registry": "flowcaseweb",
+    "container_docker_image": "core-ubuntu-focal",
+    "container_docker_tags": [
+    "develop"
+    ],
+    "description": "This is the description for ubuntucore"
+  },
     {
     "image_path":"http://opencircuitdesign.com/magic/giffiles/magic_narrow.gif",  
     "display_name": "Magic",
