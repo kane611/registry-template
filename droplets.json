@@ -10,14 +10,14 @@
     "description": "This is the description for firefox"
   },
   {
-    "image_path":"https://registry.flowcase.org/images/firefox.png",
-    "display_name": "Ubuntucore",
-    "container_docker_registry": "flowcaseweb",
-    "container_docker_image": "core-ubuntu-focal",
+    "image_path":"./images/sublime_text.png",
+    "display_name": "Sublime",
+    "container_docker_registry": "web-eda",
+    "container_docker_image": "sublime",
     "container_docker_tags": [
-    "develop"
+    "v1"
     ],
-    "description": "This is the description for ubuntucore"
+    "description": "This is the description for sublime"
   },
     {
     "image_path":"http://opencircuitdesign.com/magic/giffiles/magic_narrow.gif",  
