@@ -55,7 +55,7 @@
     "container_docker_registry": "web-eda",
     "container_docker_image": "qflow",
     "container_docker_tags": [
-    "develop"
+    "v1"
     ],
     "description": "This is the description for qflow"
   }
