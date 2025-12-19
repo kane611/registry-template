@@ -10,7 +10,7 @@
     "description": "This is the description for firefox"
   },
   {
-    "image_path":"./images/sublime_text.png",
+    "image_path":"https://registry.flowcase.org/images/sublime_text.png",
     "display_name": "Sublime",
     "container_docker_registry": "web-eda",
     "container_docker_image": "sublime",
