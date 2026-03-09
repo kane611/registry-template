@@ -62,10 +62,10 @@
     {
     "image_path":"",  
     "display_name": "ngspice",
-    "container_docker_registry": "10.26.26.114:5000",
-    "container_docker_image": "web-eda/ngspice",
+    "container_docker_registry": "flowcaseweb",
+    "container_docker_image": "terminal",
     "container_docker_tags": [
-    "v1"
+    "0.4.0"
     ],
     "description": "This is the description for qflow"
   }
