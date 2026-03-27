@@ -68,5 +68,15 @@
     "v1"
     ],
     "description": "This is the description for ngspice"
+  },
+    {
+    "image_path":"",  
+    "display_name": "netgen",
+    "container_docker_registry": "web-eda",
+    "container_docker_image": "netgen",
+    "container_docker_tags": [
+    "v1"
+    ],
+    "description": "This is the description for netgen"
   }
 ]
