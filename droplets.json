@@ -60,7 +60,7 @@
     "description": "This is the description for qflow"
   },
     {
-    "image_path":"",  
+    "image_path":"https://tse1-mm.cn.bing.net/th/id/OIP-C.-e0XthNjH0RGV3zv9mb7JgAAAA?w=154&h=66&c=7&r=0&o=7&pid=1.7&rm=3",  
     "display_name": "ngspice",
     "container_docker_registry": "web-eda",
     "container_docker_image": "ngspice",
@@ -70,7 +70,7 @@
     "description": "This is the description for ngspice"
   },
     {
-    "image_path":"",  
+    "image_path":"https://tse1-mm.cn.bing.net/th/id/OIP-C.hja5n8p1wJi_X8LBFn5pJwAAAA?w=72&h=72&c=7&r=0&o=7&pid=1.7&rm=3",  
     "display_name": "netgen",
     "container_docker_registry": "web-eda",
     "container_docker_image": "netgen",
