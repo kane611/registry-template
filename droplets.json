@@ -78,5 +78,15 @@
     "v1"
     ],
     "description": "This is the description for netgen"
+  },
+    {
+    "image_path":"https://registry.flowcase.org/images/ubuntu.png",  
+    "display_name": "Ubuntu",
+    "container_docker_registry": "web-eda",
+    "container_docker_image": "core-ubuntu-focal",
+    "container_docker_tags": [
+    "develop"
+    ],
+    "description": "This is the description for Ubuntu"
   }
 ]
